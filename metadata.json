@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Ebitax - Simulador Reforma 5. 2 - 19-08-2026",
+  "description": "Módulo de Tributação Corporativa: Sistema Atual vs. Reforma Tributária (CBS, IBS, IS, Split Payment, DRE, Impacto Fiscal/Financeiro/Contábil)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
